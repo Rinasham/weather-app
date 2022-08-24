@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rinasham/weather-app/static/css/main.e93a99f0.chunk.css",
+    "main.js": "/Rinasham/weather-app/static/js/main.b2aa2c0c.chunk.js",
+    "main.js.map": "/Rinasham/weather-app/static/js/main.b2aa2c0c.chunk.js.map",
+    "runtime-main.js": "/Rinasham/weather-app/static/js/runtime-main.56d42d0c.js",
+    "runtime-main.js.map": "/Rinasham/weather-app/static/js/runtime-main.56d42d0c.js.map",
+    "static/js/2.b5993dc1.chunk.js": "/Rinasham/weather-app/static/js/2.b5993dc1.chunk.js",
+    "static/js/2.b5993dc1.chunk.js.map": "/Rinasham/weather-app/static/js/2.b5993dc1.chunk.js.map",
+    "static/js/3.e9972d6b.chunk.js": "/Rinasham/weather-app/static/js/3.e9972d6b.chunk.js",
+    "static/js/3.e9972d6b.chunk.js.map": "/Rinasham/weather-app/static/js/3.e9972d6b.chunk.js.map",
+    "index.html": "/Rinasham/weather-app/index.html",
+    "static/css/main.e93a99f0.chunk.css.map": "/Rinasham/weather-app/static/css/main.e93a99f0.chunk.css.map",
+    "static/js/2.b5993dc1.chunk.js.LICENSE.txt": "/Rinasham/weather-app/static/js/2.b5993dc1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Rinasham/weather-app/static/media/background-image.4f6fce9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56d42d0c.js",
+    "static/js/2.b5993dc1.chunk.js",
+    "static/css/main.e93a99f0.chunk.css",
+    "static/js/main.b2aa2c0c.chunk.js"
+  ]
+}
